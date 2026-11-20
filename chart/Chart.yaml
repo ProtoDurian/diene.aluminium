@@ -8,5 +8,5 @@ kubeVersion: '>=1.27.0-0'
 dependencies:
   - name: k8s-monitoring
     alias: upstream
-    version: 4.6.0
+    version: 4.6.1
     repository: oci://ghcr.io/grafana/helm-charts
